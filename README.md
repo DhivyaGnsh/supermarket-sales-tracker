@@ -32,3 +32,5 @@ Product Performance: Identify the most popular product lines.
 Branch Performance: Compare revenue and satisfaction ratings across branches.
 Time-Based Trends: Understand peak shopping hours and days.
 Payment Method Insights: Assess preferences for payment modes.
+
+https://www.kaggle.com/datasets/akashbommidi/super-market-sales
